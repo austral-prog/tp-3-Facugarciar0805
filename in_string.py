@@ -9,5 +9,3 @@ def check_vowels():
     
 
 
-
-check_vowels();`
